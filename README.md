@@ -11,5 +11,7 @@ One to One solo tra "Corsi di Laurea" e "Studente".
 
 Many to Many tra "Corsi" e "Inseganti", tra "Appelli D'Esame" e "Studenti" con una tabella ponte per il voto.
 
+Ho aggiunto un file .txt con delle risposte a delle domande riguardanti SQL, Ho usato PHPMYADMIN per fare le prove del codice scritto nelle risposte.
+
 
 
